@@ -1,4 +1,4 @@
 # todo_app
 
-A new Flutter project.
+A Todo list to keep a track of your tasks
 
